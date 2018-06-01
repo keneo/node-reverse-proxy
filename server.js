@@ -1,7 +1,7 @@
 'use strict';
 
 // Config
-const PORT = 8080;
+const PORT = 80;
 const HOST = '0.0.0.0';
 const TARGET_HOST = 'http://www.google-analytics.com';
 
